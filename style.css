@@ -1,0 +1,13 @@
+@font-face {
+    font-family: vazir;
+    src:url('fonts/Vazir-Regular.woff')format('woff');
+        
+        
+}
+
+
+
+body{
+    font-family: vazir;
+    direction: rtl;
+}
